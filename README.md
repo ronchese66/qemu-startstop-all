@@ -6,7 +6,7 @@ A simple Shell-script to start or stop all QEMU/KVM virtual machines at once usi
 
 ### Local usage
 ```bash
-git clone https://github.com/username/qemu-startstop-all.git && cd qemu-startstop-all
+git clone https://github.com/ronchese66/qemu-startstop-all && cd qemu-startstop-all
 chmod +x allvm
 ./allvm start    # Start all VMs
 ./allvm stop     # Stop all VMs
