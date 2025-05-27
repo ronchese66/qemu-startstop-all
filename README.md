@@ -33,4 +33,4 @@ allvm stop       # Stop all VMs
 
 ## License
 
-[Unlicense](LICENSE)
+Unlicense
